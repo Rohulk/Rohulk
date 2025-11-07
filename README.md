@@ -8,6 +8,8 @@
 [![CompTIA Data+](https://images.credly.com/size/80x80/images/eef81318-aaa6-4e40-83bd-d40a6ee27b28/blob)](https://www.credly.com/badges/9648c62b-968f-4759-8333-b7b7c178132e/public_url)
 [![CompTIA DataSys+](https://images.credly.com/size/80x80/images/71839d60-b1ba-43d4-a392-98da0e1b7d29/blob)](https://www.credly.com/badges/e9e97baf-a72c-459c-b4ac-5911fdd31a0c/public_url)
 [![CompTIA Cloud Essentials+](https://images.credly.com/size/80x80/images/d358c04b-d081-424f-8221-d5d63f76c144/blob)](https://www.credly.com/badges/eaa8ad7d-bdc0-44ab-868c-7d15c8ce8038/public_url)
+[![AWS Certified Cloud Practitioner](https://images.credly.com/size/80x80/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/e3d0affa-4752-4b6c-83a9-60a194c588e2/public_url)
+[![LPI Linux Essentials](https://images.credly.com/size/80x80/images/1d36cb36-20fc-4961-8d70-6307c015d1aa/blob)](https://www.credly.com/badges/e3d0affa-4752-4b6c-83a9-60a194c588e2/public_url)
 
 
 
