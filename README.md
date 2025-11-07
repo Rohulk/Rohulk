@@ -19,10 +19,6 @@
 
 
 
-[<img src="https://github.com/user-attachments/assets/a2f7489c-77a5-43c3-a1b4-2179528ac1eb" width="589" height="305" alt="SQL Associate">](https://www.datacamp.com/certificate/SQA0013086325418)
-[<img src="https://github.com/user-attachments/assets/e8b8436f-1213-4406-a411-3a362e4b4cd2" width="589" height="305" alt="Professional Data Scientist">](https://www.datacamp.com/certificate/DS0023326953474)
-
-
 
 
 
