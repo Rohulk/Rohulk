@@ -25,9 +25,9 @@
 [![The Essentials of Managing Conflict](https://images.credly.com/size/100x100/images/a1c675ba-1289-490b-8390-0b461272556d/image.png)](https://www.credly.com/badges/8d32688e-dabd-445e-ab31-158e0001fcca/public_url)
 [![Conflict Resolution](https://images.credly.com/size/100x100/images/bb433692-9a7a-4151-8259-3e4b19609ef6/image.png)](https://www.credly.com/badges/da78c7d8-910c-46ca-91b9-60b7afe7b125)
 [![Managerial Accounting](https://images.credly.com/size/100x100/images/ca01b99c-cad7-4f3a-b488-1d5fcbe5350d/image.png)](https://www.credly.com/badges/44a2e985-af5a-429b-a24d-e4af8a4e7300/public_url)
-[![Developing Effective Teams](https://images.credly.com/size/100x100/images/a310ac80-2fdb-4548-9e8d-ff209e5b3623/blob)](https://www.credly.com/badges/60cac3b5-d545-4c53-bf14-0b5da7f97c58)
+[![Developing Effective Teams](https://images.credly.com/size/100x100/images/a310ac80-2fdb-4548-9e8d-ff209e5b3623/blob)](https://www.credly.com/badges/60cac3b5-d545-4c53-bf14-0b5da7f97c58/public_url)
 [![Introduction to Business](https://images.credly.com/size/100x100/images/f6879bb1-2348-4079-9f28-4d3ef7d981c8/image.png)](https://www.credly.com/badges/f9e64cc8-f176-454f-8a9c-48e221059ca1/public_url)
-[![SQL concepts for Data Engineers](https://images.credly.com/size/100x100/images/fefc7f10-04f6-4d10-8c66-885a30f4eb92/image.png)](https://www.credly.com/earner/earned/badge/24400546-d2fb-4d11-b21e-2e4a03b4a333)
+[![SQL concepts for Data Engineers](https://images.credly.com/size/100x100/images/fefc7f10-04f6-4d10-8c66-885a30f4eb92/image.png)](https://www.credly.com/earner/earned/badge/24400546-d2fb-4d11-b21e-2e4a03b4a333/public_url)
 
 
 
