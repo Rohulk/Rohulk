@@ -27,7 +27,7 @@
 [![Managerial Accounting](https://images.credly.com/size/100x100/images/ca01b99c-cad7-4f3a-b488-1d5fcbe5350d/image.png)](https://www.credly.com/badges/44a2e985-af5a-429b-a24d-e4af8a4e7300/public_url)
 [![Developing Effective Teams](https://images.credly.com/size/100x100/images/a310ac80-2fdb-4548-9e8d-ff209e5b3623/blob)](https://www.credly.com/badges/60cac3b5-d545-4c53-bf14-0b5da7f97c58/public_url)
 [![Introduction to Business](https://images.credly.com/size/100x100/images/f6879bb1-2348-4079-9f28-4d3ef7d981c8/image.png)](https://www.credly.com/badges/f9e64cc8-f176-454f-8a9c-48e221059ca1/public_url)
-[![SQL concepts for Data Engineers](https://images.credly.com/size/100x100/images/fefc7f10-04f6-4d10-8c66-885a30f4eb92/image.png)](https://www.credly.com/earner/earned/badge/24400546-d2fb-4d11-b21e-2e4a03b4a333/public_url)
+[![SQL concepts for Data Engineers](https://images.credly.com/size/100x100/images/fefc7f10-04f6-4d10-8c66-885a30f4eb92/image.png)](https://www.credly.com/badges/24400546-d2fb-4d11-b21e-2e4a03b4a333/public_url)
 
 
 
