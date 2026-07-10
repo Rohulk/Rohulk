@@ -1,3 +1,8 @@
+# About me
+
+8 years ago I made a github account but lost the motivation to build anything because of how difficult it was. Now, I see the beauty in data and code.
+
+
 ![snake_gif](https://github.com/Rohulk/Rohulk/blob/output/github-snake-dark.svg)
 
 
