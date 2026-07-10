@@ -32,12 +32,7 @@
 ## Helpful videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer](https://ytcards.demolab.com/?id=RBSGKlAvoiM&title=Data+Structures+Easy+to+Advanced+Course+-+Full+Tutorial+from+a+Google+Engineer&lang=en&timestamp=1568903978&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer")](https://www.youtube.com/watch?v=RBSGKlAvoiM)
-[![How do computers and the internet work? - Computer Science Basics](https://ytcards.demolab.com/?id=AV_VYsJnHQQ&title=How+do+computers+and+the+internet+work%3F+-+Computer+Science+Basics&lang=en&timestamp=1537374462&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "How do computers and the internet work? - Computer Science Basics")](https://www.youtube.com/watch?v=AV_VYsJnHQQ)
-[![Maths for Programmers Tutorial - Full Course on Sets and Logic](https://ytcards.demolab.com/?id=2SpuBqvNjHI&title=Maths+for+Programmers+Tutorial+-+Full+Course+on+Sets+and+Logic&lang=en&timestamp=1538409365&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Maths for Programmers Tutorial - Full Course on Sets and Logic")](https://www.youtube.com/watch?v=2SpuBqvNjHI)
-[![Computer Science Terminology](https://ytcards.demolab.com/?id=LtoBGQPuu1c&title=Computer+Science+Terminology&lang=en&timestamp=1541701016&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Computer Science Terminology")](https://www.youtube.com/watch?v=LtoBGQPuu1c)
-[![What do computer programmers actually do?](https://ytcards.demolab.com/?id=WvXsY736Kz0&title=What+do+computer+programmers+actually+do%3F&lang=en&timestamp=1543331013&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "What do computer programmers actually do?")](https://www.youtube.com/watch?v=WvXsY736Kz0)
-[![7 Habits of Successful Software Engineers](https://ytcards.demolab.com/?id=6G_UQ0YepV8&title=7+Habits+of+Successful+Software+Engineers&lang=en&timestamp=1542642933&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "7 Habits of Successful Software Engineers")](https://www.youtube.com/watch?v=6G_UQ0YepV8)
+
 <!-- END YOUTUBE-CARDS -->
 
 
