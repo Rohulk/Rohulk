@@ -28,7 +28,8 @@
 
 <div align="left">
 
-<img src="/Screenshot 2026-07-10 020313.png" alt="Banner" width="400"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   <img src="/Screenshot 2026-07-10 020333.png" alt="Banner" width="400">
+<img src="/Screenshot 2026-07-10 020313.png" alt="Banner" width="400"> &nbsp; &nbsp; &nbsp; &nbsp; 
+<img src="/Screenshot 2026-07-10 020333.png" alt="Banner" width="400">
 
 ## Helpful videos
 
