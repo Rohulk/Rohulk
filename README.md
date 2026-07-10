@@ -1,7 +1,6 @@
-# About me
 
 <div align="center">
-  <img src="Screenshot 2026-07-10 015807.png" alt="Banner" width="100%">
+  <img src="/Screenshot 2026-07-10 022314.png" alt="Banner" width="100%">
 </div>
 
 8 years ago I made a github account but lost the motivation to build anything because of how difficult it was. Now, I see the beauty in data and code.
@@ -28,6 +27,8 @@
 [![Azure Fundamentals](https://images.credly.com/size/80x80/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](https://learn.microsoft.com/en-us/users/khaikieu-6914/credentials/368dfd042f03f0d)
 
 <div align="left">
+
+<img src="/Screenshot 2026-07-10 020313.png" alt="Banner" width="385"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  <img src="/Screenshot 2026-07-10 020333.png" alt="Banner" width="400">
 
 ## Helpful videos
 
