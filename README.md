@@ -32,7 +32,6 @@
 ## Helpful videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
 <!-- END YOUTUBE-CARDS -->
 
 
