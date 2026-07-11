@@ -28,6 +28,7 @@
 
 <div align="left">
 
+# Extra coursework
 <img src="/Screenshot 2026-07-10 020313.png" alt="Banner" width="300"> &nbsp; &nbsp; &nbsp; &nbsp; 
 <img src="/Screenshot 2026-07-10 020333.png" alt="Banner" width="300">
 
