@@ -1,8 +1,4 @@
 
-<div align="center">
-  <img src="/Screenshot 2026-07-10 022314.png" alt="Banner" width="100%">
-</div>
-
 8 years ago I made a github account but lost the motivation to build anything because of how difficult it was. Now, I see the beauty in data and code.
 
 
